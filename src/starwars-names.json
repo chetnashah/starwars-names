@@ -17,10 +17,20 @@
     "Bossk",
     "Brakiss",
     "C-3PO1",
+<<<<<<< HEAD
     "Cad Banea",
     "Cade Skywalker",
     "Callista Ming",
+=======
+    "Cad Bane",
+    "Cade Skywalkeri",
+    "Callista Mingo",
+<<<<<<< HEAD
+>>>>>>> 5f451e5... changed name 2
     "Captain Rex",
+=======
+    "Captain Rexa",
+>>>>>>> 6166e9a... Feature name change
     "Carnor Jax",
     "Chewbaca",
     "Clone Commander Cody",
@@ -29,7 +39,7 @@
     "Darth Krayt",
     "Darth Maul",
     "Darth Nihilus",
-    "Darth Vader",
+    "Darth Vadera",
     "Dash Rendar",
     "Dengar",
     "Durge",
@@ -74,7 +84,7 @@
     "Princess Leia",
     "PROXY",
     "Qui-Gon Jinn",
-    "Quinlan Vos",
+    "Quinlan Vosa",
     "R2-D2",
     "Rahm Kota",
     "Revan",
